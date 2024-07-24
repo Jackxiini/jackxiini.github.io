@@ -4,14 +4,11 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. candidate in Computer Science at [Volgenau School of Engineering](https://volgenau.gmu.edu), [George Mason University](https://www.gmu.edu/), advised by Professor [Jessica Lin](https://cs.gmu.edu/~jessica/). My research area is machine learning, deep learning and time series analysis. In particular, I am interested in developing efficient and accurate deep learning-based model for time series fully-, semi- and un-supervised learning. My research also includes interdisciplinary applications of time series and exploring time series few shot and zero shot learning.
-
-I received my B.E. degree in Mechanical Engineering from Shanghai Normal University and M.S. degree in Computer Information Systems from Boston University.
+I am a Ph.D. candidate in Computer Science at [Volgenau School of Engineering](https://volgenau.gmu.edu), [George Mason University](https://www.gmu.edu/), advised by Professor [Jessica Lin](https://cs.gmu.edu/~jessica/). I received my B.E. degree in Mechanical Engineering from Shanghai Normal University and M.S. degree in Computer Information Systems from Boston University.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+My research area is machine learning, deep learning, and time series analysis. In particular, I am interested in developing efficient and accurate deep learning-based models for univariate and multivariate time series classification, time series clustering, and anomaly detection. My research also includes interdisciplinary applications of time series and exploring time series few-shot and zero-shot learning.
 
 ## News
 
