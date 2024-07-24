@@ -12,10 +12,9 @@ My research area is machine learning, deep learning, and time series analysis. I
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Jun. 2024]** Our paper about time series clustering has been accepted to DMKD!
+- **[Jan. 2024]** Our paper has been accepted for an oral presentation at PAKDD'24.
+- **[Nov. 2022]** Our paper on time series semi-supervised learning has been accepted to DLG-AAAI'23.
 
 {% include_relative _includes/publications.md %}
 
