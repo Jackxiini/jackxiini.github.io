@@ -18,10 +18,10 @@
   <li>ACM Transactions on Intelligent Systems and Technology (TIST)</li>
 </ul>
 
-<h4 style="margin:0 10px 0;">Teaching</h4>
+<h4 style="margin:0 10px 0;">Teaching and mentoring</h4>
 <ul style="margin:0 0 20px;">
   <li>Teaching Assistant for CS688: Machine Learning, CS747: Deep Learning, CS580: Intro to AI, CS499: Natural Language Processing, CS455/555: Computer Networking, CS112: Python, CS222/262: C</li>
-  <li>Mentoring: Aspiring Scientists' Summer Internship Program Co-mentor</li>
+  <li>Co-mentor for Aspiring Scientists' Summer Internship Program</li>
 </ul>
 
 
