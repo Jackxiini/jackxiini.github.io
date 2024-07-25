@@ -18,5 +18,3 @@
   <li>ACM Transactions on Intelligent Systems and Technology (TIST)</li>
 </ul>
 
-## Resume
-Please email me for the updated resume
