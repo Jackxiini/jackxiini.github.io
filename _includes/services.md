@@ -3,7 +3,7 @@
 <h4 style="margin:0 10px 0;">Conference Reviewers</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><a href=""><autocolor>SDM'23'24</autocolor></a></li>
+  <li><autocolor>SDM'23'24</autocolor></a></li>
   <li><a href=""><autocolor>PAKDD'24</autocolor></a></li>
   <li><a href=""><autocolor>CIKM'24</autocolor></a></li>
   <li><a href=""><autocolor>DSAA'24</autocolor></a></li>
