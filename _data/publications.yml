@@ -6,7 +6,7 @@ main:
     conference: Data Mining and Knowledge Discovery <strong>(DMKD)</strong>
     pdf: https://link.springer.com/article/10.1007/s10618-024-01048-5
     code: https://github.com/Jackxiini/RandomNet
-    bibtex: 
+    bibtex: https://citation-needed.springer.com/v2/references/10.1007/s10618-024-01048-5?format=refman&flavour=citation
     image: ./assets/img/RandomNet.png
     notes: 
 
@@ -17,6 +17,6 @@ main:
     pdf: https://link.springer.com/chapter/10.1007/978-981-97-2266-2_22
     code: https://github.com/Jackxiini/Efficient-and-Accurate-Similarity-Aware-GNN
     page:
-    bibtex: 
+    bibtex: https://citation-needed.springer.com/v2/references/10.1007/978-981-97-2266-2_22?format=bibtex&flavour=citation
     notes: Oral Presentation
     image: ./assets/img/lbsimtsc.png
