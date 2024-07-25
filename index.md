@@ -6,6 +6,8 @@ layout: homepage
 
 I am a Ph.D. candidate in Computer Science at [Volgenau School of Engineering](https://volgenau.gmu.edu), [George Mason University](https://www.gmu.edu/), advised by Professor [Jessica Lin](https://cs.gmu.edu/~jessica/). I received my B.E. degree in Mechanical Engineering from Shanghai Normal University and M.S. degree in Computer Information Systems from Boston University.
 
+Please email me for the updated resume.
+
 ## Research Interests
 
 My research interest lies in the broad area of **machine learning**, **deep learning**, and **time series data mining**. In particular, I am interested in developing efficient and accurate deep learning-based models for univariate and multivariate **time series classification**, **time series clustering**, and **anomaly detection**. My research also includes **interdisciplinary applications** of time series such as Astrophysics and healthcare, and interpretable machine learning.
