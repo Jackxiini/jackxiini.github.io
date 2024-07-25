@@ -1,6 +1,6 @@
 main:
 
-  - title: RandomNet: Clustering Time Series Using Untrained Deep Neural Networks
+  - title: "RandomNet: Clustering Time Series Using Untrained Deep Neural Networks"
     authors: Xiaosheng Li, <strong>Wenjie Xi*</strong> (co-first author), Jessica Lin (*Corresponding author)
     conference_short: DMKD
     conference: Data Mining and Knowledge Discovery <strong>(DMKD)</strong>
