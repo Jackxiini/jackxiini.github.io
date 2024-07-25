@@ -8,7 +8,7 @@ I am a Ph.D. candidate in Computer Science at [Volgenau School of Engineering](h
 
 ## Research Interests
 
-My research interest lies in the broad area of **machine learning**, **deep learning**, and **time series data mining**. In particular, I am interested in developing efficient and accurate deep learning-based models for univariate and multivariate **time series classification**, **time series clustering**, and **anomaly detection**. My research also includes interdisciplinary applications of time series and exploring time series few-shot and zero-shot learning.
+My research interest lies in the broad area of **machine learning**, **deep learning**, and **time series data mining**. In particular, I am interested in developing efficient and accurate deep learning-based models for univariate and multivariate **time series classification**, **time series clustering**, and **anomaly detection**. My research also includes interdisciplinary applications of time series such as Astrophysics and healthcare, and interpretable machine learning.
 
 ## News
 
