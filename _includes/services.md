@@ -4,8 +4,8 @@
 
 <ul style="margin:0 0 5px;">
   <li>DLG-KDD 2022</li>
-  <li>SDM 2023-2024</li>
-  <li>PAKDD 2024</li>
+  <li>SDM 2023-2025</li>
+  <li>PAKDD 2024-2025</li>
   <li>CIKM 2024</li>
   <li>DSAA 2024</li>
   <li>MULTISA 2024</li>
