@@ -23,8 +23,8 @@ main:
 
   - title: "VSFormer: Value and Shape-Aware Transformer with Prior-Enhanced Self-Attention for Multivariate Time Series Classification"
     authors: <strong>Wenjie Xi</strong>, Rundong Zuo, Alejandro Alvarez, Jie Zhang, Byron Choi, Jessica Lin
-    conference_short: In preparation
-    conference: In preparation
+    conference_short: Preview
+    conference: Preview
     pdf: https://www.arxiv.org/pdf/2412.16515
     code: 
     page:
