@@ -10,7 +10,7 @@ Please email me for the latest resume.
 
 ## Research Interests
 
-My research interest lies in the broad area of **machine learning**, **deep learning**, and **time series data mining**. In particular, I am interested in developing efficient and accurate deep learning-based models for univariate and multivariate **time series classification**, **clustering**, **forecasting** and **anomaly detection**. I am also interested in LLM for time series and video anomaly detection. My research also includes **interdisciplinary applications** of time series such as astrophysics, healthcare and cybersecurity, and interpretable machine learning.
+My research interest lies in the broad area of **machine learning**, **deep learning**, and **time series data mining**. In particular, I am interested in developing efficient and accurate deep learning-based models for univariate and multivariate **time series classification**, **clustering**, **forecasting** and **anomaly detection**. I am also interested in **LLM for time series** and **video anomaly detection**. My research also includes **interdisciplinary applications** of time series such as astrophysics, healthcare and cybersecurity, and interpretable machine learning.
 
 ## News
 
