@@ -4,6 +4,7 @@
 
 <ul style="margin:0 0 5px;">
   <li>DLG-KDD 2022</li>
+  <li>ECML-PKDD 2025</li>
   <li>SDM 2023-2025</li>
   <li>PAKDD 2024-2025</li>
   <li>CIKM 2024</li>
