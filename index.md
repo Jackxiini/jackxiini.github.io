@@ -13,7 +13,7 @@ Please email me for the latest resume.
 My research interest lies in the broad area of **machine learning**, **deep learning**, and **time series data mining**. In particular, I am interested in developing efficient and accurate deep learning-based models for univariate and multivariate **time series classification**, **clustering**, **forecasting** and **anomaly detection**. I am also interested in **LLM for time series** and **video anomaly detection**. My research also includes **interdisciplinary applications** of time series such as astrophysics, healthcare and cybersecurity, and interpretable machine learning.
 
 ## News
-
+- **[May. 2025]** Glad to present our two papers for multivariate time series classification and anomaly detection at SDM'25 AI4TS.
 - **[Jun. 2024]** Our paper about time series clustering has been accepted to DMKD.
 - **[Jan. 2024]** Our paper has been accepted for an oral presentation at PAKDD'24.
 - **[Nov. 2022]** Our paper on time series semi-supervised learning has been accepted to DLG-AAAI'23.
