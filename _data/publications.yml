@@ -1,5 +1,26 @@
 main:
+  - title: "RandomAD: A Random Kernel-based Anomaly Detector for Time Series"
+    authors: <strong>Wenjie Xi</strong>, Jessica Lin
+    conference_short: ECML-PKDD'25
+    conference: European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases <strong>(ECML-PKDD)</strong>, 2025
+    pdf: Coming soon
+    code: 
+    page:
+    bibtex: 
+    notes: 
+    image: ./assets/img/Coming_soon.png
 
+  - title: "VSFormer: Value and Shape-Aware Transformer with Prior-Enhanced Self-Attention for Multivariate Time Series Classification"
+    authors: <strong>Wenjie Xi</strong>, Rundong Zuo, Alejandro Alvarez, Jie Zhang, Byron Choi, Jessica Lin
+    conference_short: Preview
+    conference: Preview
+    pdf: https://www.arxiv.org/pdf/2412.16515
+    code: 
+    page:
+    bibtex: 
+    notes: 
+    image: ./assets/img/VSFormer.png
+    
   - title: "RandomNet: Clustering Time Series Using Untrained Deep Neural Networks"
     authors: Xiaosheng Li, <strong>Wenjie Xi*</strong> (co-first author), Jessica Lin (*Corresponding author)
     conference_short: DMKD
@@ -21,24 +42,6 @@ main:
     notes: Oral Presentation
     image: ./assets/img/lbsimtsc.png
 
-  - title: "VSFormer: Value and Shape-Aware Transformer with Prior-Enhanced Self-Attention for Multivariate Time Series Classification"
-    authors: <strong>Wenjie Xi</strong>, Rundong Zuo, Alejandro Alvarez, Jie Zhang, Byron Choi, Jessica Lin
-    conference_short: Preview
-    conference: Preview
-    pdf: https://www.arxiv.org/pdf/2412.16515
-    code: 
-    page:
-    bibtex: 
-    notes: 
-    image: ./assets/img/VSFormer.png
 
-  - title: "RandomAD: A Random Kernel-based Anomaly Detector for Time Series"
-    authors: <strong>Wenjie Xi</strong>, Jessica Lin
-    conference_short: ECML-PKDD'25
-    conference: European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases <strong>(ECML-PKDD)</strong>, 2025
-    pdf: Coming soon
-    code: 
-    page:
-    bibtex: 
-    notes: 
-    image: ./assets/img/Coming_soon.png
+
+
