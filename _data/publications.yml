@@ -31,3 +31,14 @@ main:
     bibtex: 
     notes: 
     image: ./assets/img/VSFormer.png
+
+  - title: "RandomAD: A Random Kernel-based Anomaly Detector for Time Series"
+    authors: <strong>Wenjie Xi</strong>, Jessica Lin
+    conference_short: ECML-PKDD'25
+    conference: European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases
+    pdf: Coming soon
+    code: 
+    page:
+    bibtex: 
+    notes: 
+    image: 
