@@ -6,7 +6,7 @@ layout: homepage
 
 I am a Ph.D. candidate in Computer Science at [Volgenau School of Engineering](https://volgenau.gmu.edu), [George Mason University](https://www.gmu.edu/), advised by Professor [Jessica Lin](https://cs.gmu.edu/~jessica/). I also spent a wonderful time as a Machine Learning Intern at Baidu in 2021, contributing to a computer vision project. I received my B.E. degree in Mechanical Engineering from Shanghai Normal University and M.S. degree in Computer Information Systems from Boston University.
 
-Please email me for the latest resume.
+Please email me for the latest CV/resume.
 
 ## Research Interests
 
