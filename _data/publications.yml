@@ -32,7 +32,7 @@ main:
     notes: 
 
   - title: "Efficient and Accurate Similarity-Aware Graph Neural Network for Semi-supervised Time Series Classification"
-    authors: <strong>Wenjie Xi*</strong>, Arnav Jain, Li Zhang, Jessica Lin (*Corresponding author)
+    authors: <strong>Wenjie Xi</strong>, Arnav Jain, Li Zhang, Jessica Lin
     conference_short: PAKDD
     conference: Pacific-Asia Conference on Knowledge Discovery and Data Mining <strong>(PAKDD)</strong>, 2024.
     pdf: https://link.springer.com/chapter/10.1007/978-981-97-2266-2_22
