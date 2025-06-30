@@ -10,6 +10,7 @@
   <li>CIKM 2024</li>
   <li>DSAA 2024</li>
   <li>MULTISA 2024</li>
+  <li>ACML 2025</li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
