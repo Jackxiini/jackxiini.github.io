@@ -7,7 +7,7 @@ main:
     code: 
     page:
     bibtex: 
-    notes: 
+    notes: Oral Presentation
     image: ./assets/img/RandomAD.png
 
   - title: "VSFormer: Value and Shape-Aware Transformer with Prior-Enhanced Self-Attention for Multivariate Time Series Classification"
