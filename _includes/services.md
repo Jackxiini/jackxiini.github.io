@@ -21,6 +21,7 @@
   <li>Knowledge and Information Systems (KAIS)</li>
   <li>ACM Transactions on Intelligent Systems and Technology (TIST)</li>
   <li>Pattern Recognition</li>
+  <li>Knowledge-Based Systems</li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Teaching and mentoring</h4>
