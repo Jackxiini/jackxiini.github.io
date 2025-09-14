@@ -15,7 +15,7 @@ My research interests lie in **machine learning**, **deep learning**, and **time
 ## News
 - **[May. 2025]** Our paper on anomaly detection has been accepted at ECML-PKDD'25!
 - **[May. 2025]** Glad to present our two papers for multivariate time series classification and anomaly detection at SDM'25 AI4TS.
-- **[Jun. 2024]** Our paper about time series clustering has been accepted to DMKD!
+- **[Jun. 2024]** Our paper for time series clustering has been accepted to DMKD!
 - **[Jan. 2024]** Our paper has been accepted for an oral presentation at PAKDD'24.
 - **[Nov. 2022]** Our paper on time series semi-supervised learning has been accepted to DLG-AAAI'23.
 
