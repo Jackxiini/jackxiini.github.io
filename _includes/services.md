@@ -27,7 +27,7 @@
 <h4 style="margin:0 10px 0;">Teaching and mentoring</h4>
 <ul style="margin:0 0 20px;">
   <li>Lecture Teaching for Data Mining</li>
-  <li>Teaching Assistant for Machine Learning, Deep Learning, Intro to AI, Natural Language Processing, Computer Networking, Python, C</li>
+  <li>Teaching Assistant for Machine Learning, Deep Learning, Data Mining, Intro to AI, Natural Language Processing, Computer Networking, Python, C</li>
   <li>Co-mentor for Aspiring Scientists' Summer Internship Program</li>
 </ul>
 
