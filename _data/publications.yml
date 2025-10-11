@@ -8,7 +8,7 @@ main:
     page:
     bibtex: 
     notes: 
-    image: ./assets/img/RandomAD.png
+    image: ./assets/img/Coming_soon.png
     
   - title: "RandomAD: A Random Kernel-based Anomaly Detector for Time Series"
     authors: <strong>Wenjie Xi</strong>, Jessica Lin
