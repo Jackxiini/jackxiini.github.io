@@ -1,4 +1,15 @@
 main:
+  - title: "SAX Enhanced LLM for Time Series Anomaly Detection"
+    authors: <strong>Wenjie Xi</strong>, Jessica Lin
+    conference_short: In preparation
+    conference: In preparation
+    pdf: 
+    code: 
+    page:
+    bibtex: 
+    notes: 
+    image: ./assets/img/RandomAD.png
+    
   - title: "RandomAD: A Random Kernel-based Anomaly Detector for Time Series"
     authors: <strong>Wenjie Xi</strong>, Jessica Lin
     conference_short: ECML-PKDD'25
