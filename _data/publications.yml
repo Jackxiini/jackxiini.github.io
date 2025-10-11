@@ -4,7 +4,7 @@ main:
     conference_short: ECML-PKDD'25
     conference: European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases <strong>(ECML-PKDD)</strong>, 2025
     pdf: https://ecmlpkdd-storage.s3.eu-central-1.amazonaws.com/preprints/2025/research/preprint_ecml_pkdd_2025_research_95.pdf
-    code: 
+    code: https://github.com/Jackxiini/RandomAD
     page:
     bibtex: 
     notes: Oral Presentation
