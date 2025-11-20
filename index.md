@@ -10,7 +10,7 @@ Please email me for the latest CV/resume.
 
 ## Research Interests
 
-My research interests lie in **machine learning**, **time series data mining** and **LLMs**. I focus on developing efficient and accurate deep learning models for **time series classification**, **clustering**, **forecasting**, and **anomaly detection**, in both univariate and multivariate settings. I am also exploring **LLM for time series**, as well as **video anomaly detection** and **AI agents**. My research also includes **interdisciplinary applications** of time series such as astrophysics, healthcare and cybersecurity, and interpretable machine learning.
+My research interests lie in **machine learning**, **time series data mining** and **LLMs**. I focus on developing efficient and accurate deep learning models for **time series classification**, **clustering**, **forecasting**, and **anomaly detection**, in both univariate and multivariate settings. I am also exploring **LLM and Agentic AI for time series**, as well as **video anomaly detection** and **AI agents**. My research also includes **interdisciplinary applications** of time series such as astrophysics, healthcare and cybersecurity, and interpretable machine learning.
 
 ## News
 - **[May. 2025]** Our paper on anomaly detection has been accepted at ECML-PKDD'25!
