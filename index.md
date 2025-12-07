@@ -18,7 +18,7 @@ My research interests lie in **machine learning**, **time series data mining** a
 - **[May. 2025]** Glad to present our two papers for multivariate time series classification and anomaly detection at SDM'25 AI4TS.
 - **[Jun. 2024]** Our paper for time series clustering has been accepted to DMKD!
 - **[Jan. 2024]** Our paper has been accepted for an oral presentation at PAKDD'24.
-- **[Feb. 2023]** Glad to present our work at The Ninth International Workshop on Deep Learning on Graphs: Method and Applications.
+- **[Feb. 2023]** Glad to present our work at the Ninth International Workshop on Deep Learning on Graphs: Method and Applications.
 - **[Nov. 2022]** Our paper on time series semi-supervised learning has been accepted to DLG-AAAI'23.
 
 {% include_relative _includes/publications.md %}
