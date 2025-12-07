@@ -13,7 +13,7 @@ main:
   - title: "RandomAD: A Random Kernel-based Anomaly Detector for Time Series"
     authors: <strong>Wenjie Xi</strong>, Jessica Lin
     conference_short: ECML-PKDD'25
-    conference: European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases <strong>(ECML-PKDD)</strong>, 2025
+    conference: European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases, 2025
     pdf: https://github.com/Jackxiini/RandomAD/blob/main/RandomAD.pdf
     code: https://github.com/Jackxiini/RandomAD
     page:
@@ -35,7 +35,7 @@ main:
   - title: "RandomNet: Clustering Time Series Using Untrained Deep Neural Networks"
     authors: Xiaosheng Li*, <strong>Wenjie Xi*</strong>, Jessica Lin (*Co-first author)
     conference_short: DMKD
-    conference: Data Mining and Knowledge Discovery <strong>(DMKD)</strong>
+    conference: Data Mining and Knowledge Discovery
     pdf: https://link.springer.com/article/10.1007/s10618-024-01048-5
     code: https://github.com/Jackxiini/RandomNet
     bibtex: https://citation-needed.springer.com/v2/references/10.1007/s10618-024-01048-5?format=refman&flavour=citation
@@ -45,7 +45,7 @@ main:
   - title: "Efficient and Accurate Similarity-Aware Graph Neural Network for Semi-supervised Time Series Classification"
     authors: <strong>Wenjie Xi</strong>, Arnav Jain, Li Zhang, Jessica Lin
     conference_short: PAKDD
-    conference: Pacific-Asia Conference on Knowledge Discovery and Data Mining <strong>(PAKDD)</strong>, 2024.
+    conference: Pacific-Asia Conference on Knowledge Discovery and Data Mining, 2024.
     pdf: https://link.springer.com/chapter/10.1007/978-981-97-2266-2_22
     code: https://github.com/Jackxiini/Efficient-and-Accurate-Similarity-Aware-GNN
     page:
