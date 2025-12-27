@@ -5,7 +5,7 @@
   <li>ECML-PKDD 2025</li>
   <li>ICDM 2025</li>
   <li>SDM 2023-2025</li>
-  <li>PAKDD 2024-2025</li>
+  <li>PAKDD 2024-2026</li>
   <li>BigData 2025</li>
   <li>ACML 2025</li>
   <li>CIKM 2024</li>
