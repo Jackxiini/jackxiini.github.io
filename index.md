@@ -13,6 +13,7 @@ Please email me for the latest CV/resume.
 My research interests lie in **machine learning**, **time series data mining** and **LLMs**. I focus on developing efficient and accurate deep learning models for **time series classification**, **clustering**, **forecasting**, and **anomaly detection**, in both univariate and multivariate settings. I am also exploring **LLM for time series**, as well as **Agentic AI** and **video anomaly detection**. My research also includes **interdisciplinary applications** of time series such as astrophysics, healthcare and cybersecurity, and interpretable machine learning.
 
 ## News
+- **[Dec. 2025]** Thrilled to receive an SWE intern offer from Google!
 - **[Nov. 2025]** Honor to serve as a conference volunteer for ICDM 2025.
 - **[May. 2025]** Our paper on anomaly detection has been accepted at ECML-PKDD'25!
 - **[May. 2025]** Glad to present our two papers for multivariate time series classification and anomaly detection at SDM'25 AI4TS.
