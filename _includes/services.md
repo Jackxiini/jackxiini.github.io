@@ -2,7 +2,7 @@
 
 <h4 style="margin:0 10px 0;">Conference PC Members and Reviewers</h4>
 <ul style="margin:0 0 5px;">
-  <li>ECML-PKDD 2025</li>
+  <li>ECML-PKDD 2025-2026</li>
   <li>ICDM 2025</li>
   <li>SDM 2023-2025</li>
   <li>PAKDD 2024-2026</li>
